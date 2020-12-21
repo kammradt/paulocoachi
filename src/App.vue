@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <h1 class="rainbow-text">
-      PAULOCOACHI - SUA DOSE DE MAOTIVAÇÃO E COACH DIÁRIA
+      PAULOCOACHI - SUA DOSE DE MOTIVAÇÃO E COACH DIÁRIA
     </h1>
     <h2>{{ phrase }}</h2>
     <img class="imgs" alt="Cuchi" src="./assets/cuchi.png" />
